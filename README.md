@@ -1,1 +1,2 @@
-# LSTM-Amazon-Reviews
+# Sentiment Analysis Using LSTM
+When you get in the driver’s seat of your car, are you able to just turn the engine on and drive away or do you need to think about how will you do it and each step of the process before leaving with the car? For most people, it’s the first option.That’s also how recurrent neural networks (RNNs) work. You don’t need to think from the scratch about every basic task you will do on your day because we have a little thing called memory, and so do the recurrent neural networks. 
