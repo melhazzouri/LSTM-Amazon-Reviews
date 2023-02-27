@@ -5,6 +5,9 @@ RNNs have been applied with success to many kinds of natural language processing
 
 ## Performance
 
+![Capture](https://user-images.githubusercontent.com/39967400/221699264-a8340ae5-db9c-4340-907b-4cdd5fc1eca6.PNG)
+
+
 ## Dataset
 The dataset is available on Kaggle. You can find more information and download the data [here](https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews).
 
